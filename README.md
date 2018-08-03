@@ -27,4 +27,4 @@ test.csv - the test data set includes:<br/>
   
 ## Deliverable
 
-The presentation slide is a high-level demonstration of the discussion.
+The [presentation slide](https://github.com/bingyil/nlp-search-results-analysis/blob/master/NLP_Poster.pdf) is a high-level demonstration of the discussion.
