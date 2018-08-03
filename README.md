@@ -27,4 +27,4 @@ test.csv - the test data set includes:<br/>
   
 ## Deliverable
 
-The presentation slide is a high-level demonstration of the discussion and summary of the prediction as well as evaluation.
+The presentation slide is a high-level demonstration of the discussion.
